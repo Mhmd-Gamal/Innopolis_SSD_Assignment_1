@@ -1,7 +1,6 @@
 # Innopolis_SSD_Assignment_1
 
 
---
 This is the first assignment for Software Design with Python course.Consists of 1 main executable file "main.py" and 4 different modules.
 Run the "main.py", and uncomment the proposed decorator before running.
 
